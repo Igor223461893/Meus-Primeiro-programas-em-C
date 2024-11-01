@@ -27,6 +27,6 @@ Para compilar e executar os programas, siga estas etapas:
    ```bash
    git clone https://github.com/seuusuario/Meus-Primeiros-Programas-em-C.git
    cd Meus-Primeiros-Programas-em-C
-   gcc exercicio1.c -o exercicio1
-   ./exercicio1
+   gcc exe-1.c -o exe-1
+   ./exe-1
 
