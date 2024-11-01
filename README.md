@@ -10,11 +10,11 @@ A linguagem C é uma das mais influentes e amplamente utilizadas na programaçã
 
 O repositório contém os seguintes diretórios e arquivos:
 
-- `exercicio1.c`: Um simples programa que recebe 4 numeros e faz a soma.
-- `exercicio2.c`: Um programa que recebe notas e mostra a media aritimetica .
-- `exercicio3.c`: Um recebe a nota e mostra a media poderada.
-- `exercicio4.c`: Um calcula a area com base no raio 
-- `exercicio5.c`: Um programa que recebe 3 notas calcula a media e mostra se o aluno ficou de Recuperação ou foi Aprovado.
+- `ex-1.c`: Um simples programa que recebe 4 numeros e faz a soma.
+- `exe-2.c`: Um programa que recebe notas e mostra a media aritimetica .
+- `exe-3.c`: Um recebe a nota e mostra a media poderada.
+- `exe-o4.c`: Um calcula a area com base no raio 
+- `exe-5.c`: Um programa que recebe 3 notas calcula a media e mostra se o aluno ficou de Recuperação ou foi Aprovado.
 
 Sinta-se à vontade para explorar, comentar e contribuir!
 
