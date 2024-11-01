@@ -29,4 +29,4 @@ Para compilar e executar os programas, siga estas etapas:
    cd Meus-Primeiros-Programas-em-C
    gcc exercicio1.c -o exercicio1
    ./exercicio1
-```
+
