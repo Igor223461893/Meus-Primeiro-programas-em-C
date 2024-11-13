@@ -15,7 +15,7 @@ scanf("%f", &not3);
 
 media = (not1 + not2 + not3)/ 3;
 
-if (media >= 5.0 )
+if (media >= 6.0 )
 {
     printf ("APROVADO, COM A MEDIA EM : %.2f", media);
 } else {
